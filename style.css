@@ -1,0 +1,38 @@
+@page {
+    width: 62.7mm;
+    height: 33.5mm;
+    padding: 0.5mm;
+}
+table {
+    height: 100%;
+    width: 100%;
+    vertical-align: center;
+    horiz-align: center;
+}
+
+
+.precio {
+    font-size: 26px;
+    font-weight: bold;
+    align-items: end;
+    align-content: end;
+    height: 30%;
+    width: 40%;
+}
+
+.nombre {
+    font-size: 24px;
+    width: 100%;
+    height: 30%;
+}
+
+.marca {
+    font-style: normal;
+    font-size: 23px;
+}
+
+.cantidad {
+    font-size: 13px;
+}
+
+
